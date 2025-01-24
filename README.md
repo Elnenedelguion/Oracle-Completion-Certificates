@@ -8,7 +8,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## 📋<b> WHAT IS THIS ALL ABOUT</b>
 <br>  
-Hello! 🎉 I am a proud One program graduate from Oracle Next Education | Alura Latam. This repo contains all my certificates that demonstrate my dedication and achievements in the exciting world of backend development.
+<p>Hello! 🎉 I am a proud One program graduate from Oracle Next Education | Alura Latam.</p>
+<p>This repo contains all my certificates that demonstrate my dedication and achievements in the exciting world of backend development.</p>
 <br>
 <!--FOLDER STRUCTURE-->
 <br>
